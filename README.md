@@ -10,5 +10,5 @@ Aquí tienes a Charmander:
 
 ---
 
-[Volver a la página principal]([index.md](https://jmda04.github.io/Tarea2digitalizacion/))
+[Volver a la página principal](https://jmda04.github.io/Tarea2digitalizacion/)
 
