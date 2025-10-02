@@ -1,1 +1,14 @@
+# Historia de los Pokémon
+
+Los Pokémon son criaturas con habilidades especiales. Algunos ejemplos famosos son:
+- **Pikachu**
+- **Charmander**
+
+Aquí tienes a Charmander:
+
+![Charmander](charmander.jpg)
+
+---
+
+[Volver a la página principal]([index.md](https://jmda04.github.io/Tarea2digitalizacion/))
 
